@@ -1,4 +1,4 @@
-package com.company.converter;
+package com.company;
 
 public class Converter {
 

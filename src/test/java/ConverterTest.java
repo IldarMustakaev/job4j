@@ -1,6 +1,4 @@
-package test.java;
-
-import com.company.converter.Converter;
+import com.company.Converter;
 import org.junit.Assert;
 import org.junit.Test;
 
