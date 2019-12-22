@@ -1,4 +1,4 @@
-package com.company;
+package Fit;
 
 public class Fit {
 
