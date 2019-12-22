@@ -1,145 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91eccc4f-4d3d-4594-b6ad-478042fe9d29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_all_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hamcrest-all-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Converter/ConverterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fit/FitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/job4j.iml" beforeDir="false" afterPath="$PROJECT_DIR$/job4j.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Converter/Converter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Fit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fit/Fit.java" afterDir="false" />
+    <list default="true" id="d0c2cc60-1575-469f-8e0f-5222f6f260c0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="module-info" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1VIujvahStijIkXauB2VVBiJlzS" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Ильдар\IdeaProjects\untitled\lib" />
-    </key>
-  </component>
-  <component name="RunManager" selected="JUnit.FitTest">
-    <configuration name="Converter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Converter.Converter" />
-      <module name="job4j" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Converter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fit.Fit" />
-      <module name="job4j" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Fit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConverterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="job4j" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Converter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Converter" />
-      <option name="MAIN_CLASS_NAME" value="Converter.ConverterTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConverterTest.rubleToEuro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="job4j" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Converter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Converter" />
-      <option name="MAIN_CLASS_NAME" value="Converter.ConverterTest" />
-      <option name="METHOD_NAME" value="rubleToEuro" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="job4j" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Fit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Fit" />
-      <option name="MAIN_CLASS_NAME" value="Fit.FitTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Converter" />
-      <item itemvalue="JUnit.ConverterTest.rubleToEuro" />
-      <item itemvalue="JUnit.ConverterTest" />
-      <item itemvalue="Application.Fit" />
-      <item itemvalue="JUnit.FitTest" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.FitTest" />
-        <item itemvalue="Application.Fit" />
-        <item itemvalue="JUnit.ConverterTest" />
-        <item itemvalue="JUnit.ConverterTest.rubleToEuro" />
-        <item itemvalue="Application.Converter" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -157,86 +28,24 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="91eccc4f-4d3d-4594-b6ad-478042fe9d29" name="Default Changelist" comment="" />
-      <created>1576953070638</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1576953070638</updated>
-    </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="23" key="#Notifications" timestamp="1577016597689">
+    <state width="1286" height="126" key="GridCell.Tab.0.bottom" timestamp="1577020103549">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1577016597689" />
-    <state x="275" y="23" key="#Project_Structure" timestamp="1577015167360">
+    <state width="1286" height="126" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577020103549" />
+    <state width="1286" height="126" key="GridCell.Tab.0.center" timestamp="1577020103549">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1577015167360" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1577016846845">
+    <state width="1286" height="126" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577020103549" />
+    <state width="1286" height="126" key="GridCell.Tab.0.left" timestamp="1577020103549">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577016846845" />
-    <state width="1286" height="126" key="GridCell.Tab.0.bottom" timestamp="1577019068408">
+    <state width="1286" height="126" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577020103549" />
+    <state width="1286" height="126" key="GridCell.Tab.0.right" timestamp="1577020103549">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="126" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577019068408" />
-    <state width="1286" height="126" key="GridCell.Tab.0.center" timestamp="1577019068408">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1286" height="126" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577019068408" />
-    <state width="1286" height="126" key="GridCell.Tab.0.left" timestamp="1577019068408">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1286" height="126" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577019068408" />
-    <state width="1286" height="126" key="GridCell.Tab.0.right" timestamp="1577019068408">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1286" height="126" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577019068408" />
-    <state width="1286" height="204" key="GridCell.Tab.1.bottom" timestamp="1577015176997">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1286" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577015176997" />
-    <state width="1286" height="204" key="GridCell.Tab.1.center" timestamp="1577015176997">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1286" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577015176997" />
-    <state width="1286" height="204" key="GridCell.Tab.1.left" timestamp="1577015176997">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1286" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577015176997" />
-    <state width="1286" height="204" key="GridCell.Tab.1.right" timestamp="1577015176997">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1286" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577015176997" />
-    <state x="184" y="8" key="SettingsEditor" timestamp="1577016850439">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577016850439" />
-    <state x="384" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1577016148805">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="384" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577016148805" />
-    <state x="339" y="164" key="run.anything.popup" timestamp="1576961259109">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1576961259109" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577003355640">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577003355640" />
+    <state width="1286" height="126" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577020103549" />
   </component>
 </project>
