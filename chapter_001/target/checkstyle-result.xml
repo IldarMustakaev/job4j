@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/main/java/com/company/TrgArea.java">
+</file>
+<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/main/java/com/company/Git.java">
+</file>
+<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/main/java/com/company/Point.java">
+</file>
+<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/main/java/com/company/SqArea.java">
+</file>
+<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/main/java/com/company/Fit.java">
+</file>
+<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/main/java/com/company/Converter.java">
+</file>
+<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/main/java/com/company/Main.java">
+</file>
+<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/main/java/com/company/Calculator.java">
+</file>
+<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/test/java/FitTest.java">
+</file>
+<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/test/java/SqAreaTest.java">
+</file>
+<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/test/java/ConverterTest.java">
+</file>
+<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/test/java/PointTest.java">
+</file>
+</checkstyle>
