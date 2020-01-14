@@ -2,33 +2,45 @@ package com.iterator;
 import java.util.Iterator;
 
 public class MatrixIterator implements Iterator {
-    private int[] values;
-    private int index = 0;
+    private int[][] values;
+    private int i = 0;
+    private int j = 0;
 
     public MatrixIterator(final int[][] values) {
-        int length = 0;
-        for (int i = 0; i < values.length; i++) {
-            length += values[i].length;
-        }
-
-        int[] oneDimensionalArray = new int[length];
-        int index = 0;
-        for (int i = 0; i < values.length; i++) {
-            for (int j = 0; j < values[i].length; j++) {
-                oneDimensionalArray[index] = values[i][j];
-                index++;
-            }
-        }
-
-        this.values = oneDimensionalArray;
+        this.values = values;
     }
 
     public boolean hasNext() {
-        return values.length > index;
+        int i = this.i;
+        int j = this.j;
+        if (values.length > i && values[i].length > j) {
+            return true;
+        } else {
+            return false;
+        }
     }
 
     public Object next() {
-        return values[index++];
+        int v = values[i][j];
+        increment();
+        return v;
+    }
+
+    private void increment() {
+        if (values.length > i && values[i].length > j + 1) {
+            this.j++;
+            return;
+        }
+
+        if (values.length > i && values[i].length == j + 1) {
+            j = 0;
+            i++;
+            return;
+        }
+
+        if (values.length == i + 1) {
+            return;
+        }
     }
 
 }
