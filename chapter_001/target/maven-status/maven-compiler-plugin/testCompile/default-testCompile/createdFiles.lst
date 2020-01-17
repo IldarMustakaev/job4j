@@ -1,3 +1,6 @@
-SqAreaTest.class
 PointTest.class
+iterator/EvenIteratorTest.class
+FitTest.class
+SqAreaTest.class
 ConverterTest.class
+com/iterator/JaggedArrayIteratorTest.class

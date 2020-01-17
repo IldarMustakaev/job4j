@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="6.11.2">
+<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/main/java/com/iterator/EvenNumbersIterator.java">
+</file>
+<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/main/java/com/iterator/MatrixIterator.java">
+</file>
 <file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/main/java/com/company/TrgArea.java">
 </file>
 <file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/main/java/com/company/Git.java">
@@ -22,10 +26,10 @@
 </file>
 <file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/test/java/ConverterTest.java">
 </file>
-<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/test/java/Iterator/JaggedArrayIteratorTest.java">
+<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/test/java/iterator/EvenIteratorTest.java">
+</file>
+<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/test/java/iterator/JaggedArrayIteratorTest.java">
 </file>
 <file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/test/java/PointTest.java">
-</file>
-<file name="/Users/iMustakaev/Documents/projects/job4j/chapter_001/src/test/java/com/iterator/MatrixIterator.java">
 </file>
 </checkstyle>

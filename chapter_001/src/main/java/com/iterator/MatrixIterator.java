@@ -13,11 +13,7 @@ public class MatrixIterator implements Iterator {
     public boolean hasNext() {
         int i = this.i;
         int j = this.j;
-        if (values.length > i && values[i].length > j) {
-            return true;
-        } else {
-            return false;
-        }
+        return values.length > i && values[i].length > j;
     }
 
     public Object next() {
@@ -42,5 +38,4 @@ public class MatrixIterator implements Iterator {
             return;
         }
     }
-
 }

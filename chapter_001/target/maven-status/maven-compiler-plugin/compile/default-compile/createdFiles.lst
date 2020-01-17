@@ -3,6 +3,8 @@ com/company/SqArea.class
 com/company/TrgArea.class
 com/company/Point.class
 com/company/Fit.class
+com/iterator/MatrixIterator.class
 com/company/Converter.class
+com/iterator/EvenNumbersIterator.class
 com/company/Git.class
 com/company/Calculator.class
